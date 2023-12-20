@@ -1,0 +1,18 @@
+mult  subtr   soma   reg  setup
+ 5	2	2     2	    1
+
+
+5+2+2+2+1=12 ns == 1/12 = 83,33 MHz
+
+mult soma  setup
+ 5    2      1
+
+5+2+1= 8ns == 1/8 = 125 Mh\z
+
+1x10^9/83,33x10^6= 12 ciclos
+1x10^9 / 83,33x10^6 = 16 ciclos
+
+
+1 tempo para 1 bilhão na original= 12x10^-9*1x10^9 = 12 s
+1 tempo para 1 bilhão na nova = 8x10^-9 * 1x10^9= 8s
+   
